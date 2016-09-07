@@ -1,0 +1,44 @@
+
+#cabecera{
+	background: #272822;
+	margin: 2px auto;
+	color: #52D9D0;
+	font: verdana;
+	border-radius: 8px;
+	height: 90px;
+}
+#img{
+	border-radius: 50px;
+	width: 10%;
+	/*height: 20%;*/
+	float: left;
+}
+#seccion{
+	margin: 5px;
+	padding: 15px;
+	background: #272822;
+	color: #AE81FF;
+	font: 20px verdana;
+	border-radius: 10px;
+	float: left;
+	width: 1090px;
+}
+#cuadro{
+	float: left;
+	width: 100px;
+	border-radius: 8px;
+	margin: 5px;
+	padding: 4px;
+}
+#lateral{
+	float: left;
+	width: 220px;
+	margin: 10px 0px;
+	padding: 20px;
+	background: #272822;
+	border-radius: 10px;
+}
+#paleta{
+	border-radius: 5px;
+	width: 150px;
+}
